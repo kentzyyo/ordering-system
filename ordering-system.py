@@ -1,4 +1,4 @@
-#selwyn kent onedo bscs 3a
+
 #defensive programming
 # 09142023
 #sandwich order system using pyinput plus library
